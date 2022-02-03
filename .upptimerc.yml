@@ -19,9 +19,9 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /findie-upptime
   logoUrl: https://www.findie.cl/static/media/logo-black.4ed27940.svg
-  name: Upptime findie.cl
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Findie 
+  introTitle: "**Monitoreo** Sistema simple de monitoreo para los distintos ambientes."
+  introMessage: aca se podran verificar los servicios de findie, a su vez se podran subcribir a notificaciones sobre las posibles caidas.
   navbar:
     - title: Status
       href: /
