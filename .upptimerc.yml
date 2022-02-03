@@ -3,14 +3,14 @@ owner: hegga-cl # Your GitHub organization or username, where this repository li
 repo: findie-upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: findie prod
+    url: https://www.findie.cl/
+  - name: api prod
+    url: https://api-01.findie.cl/api/v1/freelancers/top_featured/
+  - name: findie staging
+    url: https://staging.findie.cl/
+  - name: api staging
+    url: https://api-01.findie.cl/api/v1/freelancers/top_featured/
 assignees: # Users to assign downtime issues (optional)
   - EfrainGaray
 status-website:
@@ -18,8 +18,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /findie-upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://www.findie.cl/static/media/logo-black.4ed27940.svg
+  name: Upptime findie.cl
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
