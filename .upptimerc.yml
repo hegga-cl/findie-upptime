@@ -24,7 +24,7 @@ status-website:
   introMessage: aca se podran verificar los servicios de findie, a su vez se podran subcribir a notificaciones sobre las posibles caidas.
   navbar:
     - title: Status
-      href: /
+      href: /findie-upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
